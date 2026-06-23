@@ -1,0 +1,18 @@
+# DevEco / HarmonyOS 构建产物与缓存
+.hvigor/
+build/
+*/build/
+*.cache
+
+# IDE 配置与缓存
+.idea/
+.deveco/
+
+# 日志与构建报告
+*.log
+logs/
+report/
+
+# 系统临时文件
+Thumbs.db
+.DS_Store
